@@ -1,0 +1,15 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const REGISTER = "REGISTER";
+export const SET_SESSION = "SET_SESSION";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const CREATE_HABIT = "CREATE_HABIT";
+export const FETCH_HABITS = "FETCH_HABITS";
+export const CREATE_TASK = "CREATE_TASK";
+export const FETCH_TASKS = "FETCH_TASKS";
+export const FETCH_DO_TODAYS = "FETCH_DO_TODAYS";
+export const UPDATE_HABIT = "UPDATE_HABIT";
+export const DELETE_HABIT = "DELETE_HABIT"
+export const DELETE_TASK = "DELETE_TASK";
+export const FETCH_SCHEDULING_INTERVAL = "FETCH_SCHEDULING_INTERVAL"
+export const UPDATE_SCHEDULING_INTERVAL = "UPDATE_SCHEDULING_INTERVAL"
